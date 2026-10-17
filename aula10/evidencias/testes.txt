@@ -1,0 +1,1 @@
+OK: 38 verificacoes de Adapter, fontes alternativas, Facade, validacoes, vagas, desconto, ordem e apresentacao.

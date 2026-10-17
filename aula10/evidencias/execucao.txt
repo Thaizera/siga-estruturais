@@ -1,0 +1,30 @@
+=== SIGA - Aula 10: Adapter e Facade ===
+
+1) Importacao a partir da fonte adaptada
+   Alunos importados: 4
+     2024001 - Maria Silva (ativo)
+     2024002 - Joao Souza (inativo)
+     2024003 - Ana Pereira (ativo)
+     2024004 - Carlos Almeida (ativo)
+
+2) Relatorio pela mesma fonte
+   Situacao segundo o relatorio:
+     2024001 - Maria Silva (ativo)
+     2024002 - Joao Souza (inativo)
+     2024003 - Ana Pereira (ativo)
+     2024004 - Carlos Almeida (ativo)
+
+3) Cenarios originais de matricula
+   [e-mail] Confirmação enviada a Maria Silva: Maria Silva em DSM-2A (desconto de 50%)
+   [tela] Matricula realizada: Maria Silva em DSM-2A (desconto de 50%)
+   [tela] Erro: CPF invalido.
+   [tela] Erro: Aluno nao encontrado: 2024009
+   [tela] Erro: Turma sem vagas: DSM-2B
+
+4) Cenarios adicionais do guia
+   [tela] Erro: Aluno inativo nao pode ser matriculado: 2024002
+   [e-mail] Confirmação enviada a Ana Pereira: Ana Pereira em DSM-2A (desconto de 0%)
+   [tela] Matricula realizada: Ana Pereira em DSM-2A (desconto de 0%)
+   [tela] Erro: Turma sem vagas: DSM-2A
+
+Matriculas gravadas: 2

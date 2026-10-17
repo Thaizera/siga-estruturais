@@ -1,0 +1,5 @@
+OK: 11 componentes prontos preservados byte a byte.
+OK: importador e relatorio dependem de FonteDeAlunos.
+OK: conversao da situacao em um unico ponto.
+OK: tela com um colaborador.
+SHA-256 SecretariaLegadoWS.java: 9d2bb3d0f1a43b35a1e80824e90bc646f17ad7e22777aaed1259e6c8dd72de26
